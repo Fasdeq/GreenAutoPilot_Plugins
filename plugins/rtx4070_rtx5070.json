@@ -1,0 +1,16 @@
+{
+    "name": "RTX 5070/4070",
+    "ECO": {
+        "power": 130,
+        "core_lock": [250, 1200]
+    },
+    "BALANCE": {
+        "power": 180,
+        "core_lock": [800, 1900]
+    },
+    "PERFORMANCE": {
+        "description": "COMPETITIVE READY",
+        "power": 220,
+        "core_lock": [1600, 2600]
+    }
+}

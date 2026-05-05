@@ -1,0 +1,16 @@
+{
+    "name": "RTX 20 Series",
+    "ECO": {
+        "power": 90,
+        "core_lock": [200, 1000]
+    },
+    "BALANCE": {
+        "power": 150,
+        "core_lock": [600, 1550]
+    },
+    "PERFORMANCE": {
+        "description": "LEGACY TURBO",
+        "power": 200,
+        "core_lock": [1100, 1850]
+    }
+}
